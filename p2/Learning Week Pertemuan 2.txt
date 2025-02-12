@@ -1,0 +1,11 @@
+Learning Week Pertemuan 2
+Quadcopter Programming Motion
+
+Flow Drone Programming
+
+Low Level : Ardupilot (Firmware buat Pixhawk)
+Midlevel : Mavlink (protocol drone)
+Highlevel : Dronekit
+
+Ada yang pake hardware :
+stacknya
