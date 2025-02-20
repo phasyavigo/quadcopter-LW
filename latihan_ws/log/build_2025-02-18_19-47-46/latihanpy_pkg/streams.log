@@ -1,0 +1,25 @@
+[0.609s] Invoking command in '/home/phasya/LW/latihan_ws/src/latihanpy_pkg': PYTHONPATH=/home/phasya/LW/latihan_ws/build/latihanpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phasya/LW/latihan_ws/install/latihanpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/latihanpy_pkg build --build-base /home/phasya/LW/latihan_ws/build/latihanpy_pkg/build install --record /home/phasya/LW/latihan_ws/build/latihanpy_pkg/install.log --single-version-externally-managed install_data
+[0.846s] running egg_info
+[0.848s] writing ../../build/latihanpy_pkg/latihanpy_pkg.egg-info/PKG-INFO
+[0.848s] writing dependency_links to ../../build/latihanpy_pkg/latihanpy_pkg.egg-info/dependency_links.txt
+[0.849s] writing entry points to ../../build/latihanpy_pkg/latihanpy_pkg.egg-info/entry_points.txt
+[0.849s] writing requirements to ../../build/latihanpy_pkg/latihanpy_pkg.egg-info/requires.txt
+[0.850s] writing top-level names to ../../build/latihanpy_pkg/latihanpy_pkg.egg-info/top_level.txt
+[0.852s] reading manifest file '../../build/latihanpy_pkg/latihanpy_pkg.egg-info/SOURCES.txt'
+[0.853s] writing manifest file '../../build/latihanpy_pkg/latihanpy_pkg.egg-info/SOURCES.txt'
+[0.853s] running build
+[0.853s] running build_py
+[0.853s] copying latihanpy_pkg/publisher.py -> /home/phasya/LW/latihan_ws/build/latihanpy_pkg/build/lib/latihanpy_pkg
+[0.854s] running install
+[0.854s] running install_lib
+[0.855s] copying /home/phasya/LW/latihan_ws/build/latihanpy_pkg/build/lib/latihanpy_pkg/publisher.py -> /home/phasya/LW/latihan_ws/install/latihanpy_pkg/lib/python3.10/site-packages/latihanpy_pkg
+[0.856s] byte-compiling /home/phasya/LW/latihan_ws/install/latihanpy_pkg/lib/python3.10/site-packages/latihanpy_pkg/publisher.py to publisher.cpython-310.pyc
+[0.857s] running install_data
+[0.857s] running install_egg_info
+[0.859s] removing '/home/phasya/LW/latihan_ws/install/latihanpy_pkg/lib/python3.10/site-packages/latihanpy_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.859s] Copying ../../build/latihanpy_pkg/latihanpy_pkg.egg-info to /home/phasya/LW/latihan_ws/install/latihanpy_pkg/lib/python3.10/site-packages/latihanpy_pkg-0.0.0-py3.10.egg-info
+[0.860s] running install_scripts
+[0.880s] Installing pub script to /home/phasya/LW/latihan_ws/install/latihanpy_pkg/lib/latihanpy_pkg
+[0.880s] Installing sub script to /home/phasya/LW/latihan_ws/install/latihanpy_pkg/lib/latihanpy_pkg
+[0.881s] writing list of installed files to '/home/phasya/LW/latihan_ws/build/latihanpy_pkg/install.log'
+[0.906s] Invoked command in '/home/phasya/LW/latihan_ws/src/latihanpy_pkg' returned '0': PYTHONPATH=/home/phasya/LW/latihan_ws/build/latihanpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phasya/LW/latihan_ws/install/latihanpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/latihanpy_pkg build --build-base /home/phasya/LW/latihan_ws/build/latihanpy_pkg/build install --record /home/phasya/LW/latihan_ws/build/latihanpy_pkg/install.log --single-version-externally-managed install_data

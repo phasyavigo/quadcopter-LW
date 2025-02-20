@@ -1,0 +1,4 @@
+[console_scripts]
+pub = latihanpy_pkg.publisher:main
+sub = latihanpy_pkg.subscriber:main
+

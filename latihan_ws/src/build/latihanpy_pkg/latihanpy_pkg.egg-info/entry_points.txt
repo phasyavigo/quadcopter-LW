@@ -1,0 +1,6 @@
+[console_scripts]
+client = latihanpy_pkg.client:main
+pub = latihanpy_pkg.publisher:main
+service = latihanpy_pkg.service:main
+sub = latihanpy_pkg.subscriber:main
+
