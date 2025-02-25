@@ -1,0 +1,21 @@
+[2.395s] Invoking command in '/home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan': PYTHONPATH=/home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build --no-deps symlink_data --force
+[3.438s] running develop
+[4.124s] running egg_info
+[4.126s] writing quadcopter_kestabilan.egg-info/PKG-INFO
+[4.127s] writing dependency_links to quadcopter_kestabilan.egg-info/dependency_links.txt
+[4.128s] writing entry points to quadcopter_kestabilan.egg-info/entry_points.txt
+[4.130s] writing requirements to quadcopter_kestabilan.egg-info/requires.txt
+[4.131s] writing top-level names to quadcopter_kestabilan.egg-info/top_level.txt
+[4.141s] reading manifest file 'quadcopter_kestabilan.egg-info/SOURCES.txt'
+[4.142s] writing manifest file 'quadcopter_kestabilan.egg-info/SOURCES.txt'
+[4.148s] running build_ext
+[4.149s] Creating /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter-kestabilan.egg-link (link to .)
+[4.153s] Installing attitude_monitor script to /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/quadcopter_kestabilan
+[4.156s] Installing imu_pub script to /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/quadcopter_kestabilan
+[4.158s] Installing logger script to /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/quadcopter_kestabilan
+[4.159s] 
+[4.159s] Installed /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan
+[4.160s] running symlink_data
+[4.163s] symbolically linking /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/resource/quadcopter_kestabilan -> /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/share/ament_index/resource_index/packages
+[4.163s] symbolically linking /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/package.xml -> /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/share/quadcopter_kestabilan
+[4.270s] Invoked command in '/home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan' returned '0': PYTHONPATH=/home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build --no-deps symlink_data --force

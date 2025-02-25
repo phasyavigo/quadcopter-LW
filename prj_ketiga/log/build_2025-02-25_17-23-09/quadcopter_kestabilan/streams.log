@@ -1,0 +1,45 @@
+[2.381s] Invoking command in '/home/phasya/quadcopter/prj_ketiga/src/quadcopter_kestabilan': PYTHONPATH=/home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/quadcopter_kestabilan build --build-base /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build install --record /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/install.log --single-version-externally-managed install_data
+[3.377s] running egg_info
+[3.378s] creating ../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info
+[3.379s] writing ../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info/PKG-INFO
+[3.379s] writing dependency_links to ../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info/dependency_links.txt
+[3.380s] writing entry points to ../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info/entry_points.txt
+[3.380s] writing requirements to ../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info/requires.txt
+[3.381s] writing top-level names to ../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info/top_level.txt
+[3.382s] writing manifest file '../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info/SOURCES.txt'
+[3.389s] reading manifest file '../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info/SOURCES.txt'
+[3.391s] writing manifest file '../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info/SOURCES.txt'
+[3.392s] running build
+[3.392s] running build_py
+[3.392s] creating /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build
+[3.393s] creating /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib
+[3.393s] creating /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan
+[3.394s] copying quadcopter_kestabilan/logger_node.py -> /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan
+[3.395s] copying quadcopter_kestabilan/attitude_monitor.py -> /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan
+[3.395s] copying quadcopter_kestabilan/imu_publisher.py -> /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan
+[3.396s] copying quadcopter_kestabilan/__init__.py -> /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan
+[3.396s] running install
+[3.396s] running install_lib
+[3.399s] creating /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan
+[3.400s] copying /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan/logger_node.py -> /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan
+[3.400s] copying /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan/attitude_monitor.py -> /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan
+[3.400s] copying /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan/imu_publisher.py -> /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan
+[3.400s] copying /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build/lib/quadcopter_kestabilan/__init__.py -> /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan
+[3.402s] byte-compiling /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan/logger_node.py to logger_node.cpython-310.pyc
+[3.404s] byte-compiling /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan/attitude_monitor.py to attitude_monitor.cpython-310.pyc
+[3.407s] byte-compiling /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan/imu_publisher.py to imu_publisher.cpython-310.pyc
+[3.408s] byte-compiling /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan/__init__.py to __init__.cpython-310.pyc
+[3.408s] running install_data
+[3.409s] creating /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/share/ament_index
+[3.409s] creating /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/share/ament_index/resource_index
+[3.409s] creating /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/share/ament_index/resource_index/packages
+[3.409s] copying resource/quadcopter_kestabilan -> /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/share/ament_index/resource_index/packages
+[3.409s] copying package.xml -> /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/share/quadcopter_kestabilan
+[3.410s] running install_egg_info
+[3.414s] Copying ../../build/quadcopter_kestabilan/quadcopter_kestabilan.egg-info to /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages/quadcopter_kestabilan-0.0.0-py3.10.egg-info
+[3.417s] running install_scripts
+[3.504s] Installing attitude_monitor script to /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/quadcopter_kestabilan
+[3.506s] Installing imu_pub script to /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/quadcopter_kestabilan
+[3.507s] Installing logger script to /home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/quadcopter_kestabilan
+[3.507s] writing list of installed files to '/home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/install.log'
+[3.598s] Invoked command in '/home/phasya/quadcopter/prj_ketiga/src/quadcopter_kestabilan' returned '0': PYTHONPATH=/home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phasya/quadcopter/prj_ketiga/install/quadcopter_kestabilan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/quadcopter_kestabilan build --build-base /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/build install --record /home/phasya/quadcopter/prj_ketiga/build/quadcopter_kestabilan/install.log --single-version-externally-managed install_data

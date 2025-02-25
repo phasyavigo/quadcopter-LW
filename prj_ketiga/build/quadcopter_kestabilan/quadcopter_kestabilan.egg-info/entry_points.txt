@@ -1,0 +1,5 @@
+[console_scripts]
+attitude_monitor = quadcopter_kestabilan.attitude_monitor:main
+imu_pub = quadcopter_kestabilan.imu_publisher:main
+logger = quadcopter_kestabilan.logger_node:main
+

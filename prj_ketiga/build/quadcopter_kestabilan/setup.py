@@ -1,0 +1,1 @@
+/home/phasya/quadcopter/prj_ketiga/src/quadcopter_kestabilan/setup.py
